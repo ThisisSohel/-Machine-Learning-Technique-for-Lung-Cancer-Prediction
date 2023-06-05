@@ -18,6 +18,7 @@ Forest algorithms.
 Python, Machine Learning.
 
 My Role：Data Preprocessing, Model implementation and documentation.
+
 Name of Part：RF, MLP, KNN, ANN, LR.
 
 Live Review: https://thisissohel.github.io/-Machine-Learning-Technique-for-Lung-Cancer-Prediction/
